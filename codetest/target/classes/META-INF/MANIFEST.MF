@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: codetest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Prabakaran SK
+Implementation-Vendor-Id: com.1800flowers
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/codetest
+Created-By: Maven Integration for Eclipse
+
